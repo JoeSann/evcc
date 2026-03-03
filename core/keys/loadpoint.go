@@ -12,6 +12,7 @@ const (
 	Priority          = "priority"    // priority
 	MinCurrent        = "minCurrent"  // min current
 	MaxCurrent        = "maxCurrent"  // max current
+	MaxCurrent1p      = "maxCurrent1p" // max current for single-phase
 	MinSoc            = "minSoc"      // min soc
 	LimitSoc          = "limitSoc"    // limit soc
 	LimitEnergy       = "limitEnergy" // limit energy
