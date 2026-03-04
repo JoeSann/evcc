@@ -10,6 +10,7 @@ __debug_bin*
 *.json
 !i18n/*.json
 !.devcontainer/devcontainer.json
+!repository.json
 *.yaml
 !templates/**/*.yaml
 !templates/**/*-schema.json
